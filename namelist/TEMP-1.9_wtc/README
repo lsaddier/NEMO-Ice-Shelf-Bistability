@@ -1,0 +1,26 @@
+*****************************************************
+*          NEMO SIMULATION                          *
+*   project   PhD_Project                     *
+*   config    jpo005                     *
+*   NEMOexe   /home/lsaddier/nemo/models/nemo_4.2.1/tests/MY_ISOMIP+_FLX/BLD/bin/nemo.exe                     *
+*   case      006                     *
+*   Desc      RUN DESCRIPTION. Test JPO config                     *
+*   Date      2026-02-18 17:05:39.010276                     *
+*                                                   *
+*   Users choices:                                 *
+*   rP_PROJ        PhD_Project                      *
+*   rP_CONFIG      jpo005                      *
+*   rP_CONFIG_TYPE BRIINE                      *
+*   BFILE       /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/geom.nc                      *
+*   TSFILE      /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/TS_-2.nc                      *
+*   FLXFILE      /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/flx/                      *
+*   rP_CASE        006                      *
+*   rP_YEAR0       1                      *
+*   rP_YEAR_MAX    160                      *
+*   RDIR        /scratch/Lake/lsaddier/nemo/run                      *
+*   rP_WORKDIR     /scratch/Lake/lsaddier/nemo/run/jpo005_006                      *
+*   rP_STOCKDIR    /scratch/Lake/lsaddier/nemo/nemo_output                      *
+*   rP_CONFIG     jpo005                      *
+*   FORCING     /work/n01/shared/core2                      *
+*   NEMOdir     /home/lsaddier/nemo/models/nemo_4.2.1/                      *
+*****************************************************

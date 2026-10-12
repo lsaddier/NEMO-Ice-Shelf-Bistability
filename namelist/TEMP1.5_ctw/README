@@ -1,0 +1,26 @@
+*****************************************************
+*          NEMO SIMULATION                          *
+*   project   PhD_Project                     *
+*   config    jpo007                     *
+*   NEMOexe   /home/lsaddier/nemo/models/nemo_4.2.1/tests/MY_ISOMIP+_FLX/BLD/bin/nemo.exe                     *
+*   case      007                     *
+*   Desc      RUN DESCRIPTION. 1.5°C, backward                     *
+*   Date      2026-03-25 12:36:04.990595                     *
+*                                                   *
+*   Users choices:                                 *
+*   rP_PROJ        PhD_Project                      *
+*   rP_CONFIG      jpo007                      *
+*   rP_CONFIG_TYPE BRIINE                      *
+*   BFILE       /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/geom.nc                      *
+*   TSFILE      /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/TS_init_conv.nc                      *
+*   FLXFILE      /home/lsaddier/nemo/bld_configs/BRIINE/jpo_2km_20m_SSS340/flx/                      *
+*   rP_CASE        007                      *
+*   rP_YEAR0       1                      *
+*   rP_YEAR_MAX    130                      *
+*   RDIR        /scratch/Lake/lsaddier/nemo/run                      *
+*   rP_WORKDIR     /scratch/Lake/lsaddier/nemo/run/jpo007_007                      *
+*   rP_STOCKDIR    /scratch/Lake/lsaddier/nemo/nemo_output                      *
+*   rP_CONFIG     jpo007                      *
+*   FORCING     /work/n01/shared/core2                      *
+*   NEMOdir     /home/lsaddier/nemo/models/nemo_4.2.1/                      *
+*****************************************************
