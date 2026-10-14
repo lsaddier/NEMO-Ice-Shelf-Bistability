@@ -1,7 +1,8 @@
-### Data and Code Supplement for the Manuscript 
+### Data and Code Supplement for the Manuscript
 
-Processed monthly averaged outputs obtained for each experiment.
+This directory contains processed monthly mean outputs for each numerical experiment.
 
-Contain:
-- Basal melt rate spatially averaged over the ice shelf
-- Temperature stratification averaged of the horizontal extent of the polynya
+### Available variables
+
+- `melt`: Basal melt rate spatially averaged over the ice shelf.
+- `dzT`: Temperature stratification horizontally averaged over the polynya region.
