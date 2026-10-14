@@ -1,0 +1,17 @@
+name: NEMO-Ice-Shelf-Bistability
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy=2.2
+  - scipy=1.15
+  - xarray=2025.4
+  - dask=2026.8
+  - netcdf4=1.7
+  - matplotlib=3.10
+  - cmcrameri=1.10
+  - ipykernel
+  - notebook
+  - jupyter
