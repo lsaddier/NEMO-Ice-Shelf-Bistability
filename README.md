@@ -15,7 +15,6 @@ git clone https://github.com/lsaddier/NEMO-Ice-Shelf-Bistability.git
 cd NEMO-Ice-Shelf-Bistability
 conda env create -f environment.yml
 conda activate NEMO-Ice-Shelf-Bistability
-jupyter-notebook
 ```
 
 ### Contact
