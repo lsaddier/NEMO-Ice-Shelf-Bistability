@@ -1,4 +1,3 @@
-
 ## Processed outputs
 
 The processed diagnostics are averaged over the final three years of each forcing plateau.
