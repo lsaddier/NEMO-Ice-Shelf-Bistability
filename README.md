@@ -1,4 +1,4 @@
-### Data and Code Supplement for the Manuscript 
+### Data and code Supplement for the Manuscript 
 
 **"Bistability of ice-shelf cavity circulation and melt under coastal polynya forcing"**
 
